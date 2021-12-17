@@ -1,0 +1,19 @@
+{
+    "name": "mjamilasfihani/codeigniter4-http-responses",
+    "description": "Generate a beatiful HTTP response status codes",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mjamilasfihani\\Codeigniter4HttpResponses\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mohammad Jamil Asfihani",
+            "email": "mohammadjamilasfihani@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
